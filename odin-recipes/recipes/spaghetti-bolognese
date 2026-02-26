@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>        
+        <meta charset="utf-8">
+        <title>Spaghetti Bolognese</title>
+    </head>
+    <main>
+        <h1>Spaghetti Bolognese</h1>
+        <img src="https://www.preciouscore.com/wp-content/uploads/2024/06/Spaghetti-Bolognese-Chicken.jpg" alt="Spaghetti Bolognese" width="500" height="500">
+        <h2>Description</h2>
+        <p>This classic spaghetti Bolognese is a hearty and flavorful dish that's perfect for a family dinner. Made with ground beef, tomatoes, and a blend of Italian herbs, it's a comforting meal that's sure to satisfy.
+            <br> The rich sauce is simmered to perfection, allowing the flavors to meld together beautifully. Serve it over a bed of al dente spaghetti for a truly delicious experience.
+        </p>
+
+        <h1>Ingredients</h1>
+        <ul>
+            <li>1 pound ground beef</li>
+            <li>1 onion, chopped</li>
+            <li>2 cloves garlic, minced</li>
+            <li>1 can (28 ounces) crushed tomatoes</li>
+            <li>2 tablespoons tomato paste</li>
+            <li>1 teaspoon dried oregano</li>
+            <li>1 teaspoon dried basil</li>
+            <li>Salt and pepper, to taste</li>
+            <li>8 ounces spaghetti</li>
+        </ul>
+
+        <h1>Instructions</h1>
+        <ol>
+            <li>In a large skillet, cook the ground beef over medium heat until browned. Drain excess fat.</li>
+            <li>Add the chopped onion and minced garlic to the skillet, and cook until the onion is translucent.</li>
+            <li>Stir in the crushed tomatoes, tomato paste, oregano, basil, salt, and pepper. Simmer for 20-30 minutes, stirring occasionally.</li>
+            <li>Meanwhile, cook the spaghetti according to package instructions. Drain and set aside.</li>
+            <li>Serve the Bolognese sauce over the cooked spaghetti. Enjoy!</li>
+        </ol>
+        <a href="../index.html" rel="noopener noreferrer">Back to Recipes</a>
+    </main>
