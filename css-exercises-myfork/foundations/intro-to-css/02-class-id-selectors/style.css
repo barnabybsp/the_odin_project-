@@ -1,0 +1,22 @@
+/* Add CSS Styling */
+
+.class1 {
+    background-color: lightcoral;
+    color: rgb(0, 0, 0)
+}
+
+#ID1{
+    color: #2948e4;
+    font-size: 45px;
+}
+
+#ID2{
+    color: rgb(0, 0, 0);
+    background-color: #6fff82;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.cool{
+    font-size: 30px;   
+}
